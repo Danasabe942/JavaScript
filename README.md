@@ -1,6 +1,9 @@
 Var good mood=true
+
 Var got sleep=true
+
 Var got paid=true
+
 If(goodmood||gotsleep||gotpaid)
 
 Console.log("today is a good day")
